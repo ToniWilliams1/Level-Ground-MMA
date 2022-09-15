@@ -1,0 +1,129 @@
+header, main{
+  background: rgb(118, 142, 167);
+  color: white;
+  max-width: 100%;
+  margin: 0 auto;
+  font-family:  'Oswald', sans-serif;
+  height: 100px;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 200px;
+  height: 30px;
+  padding-right: 80px;
+  padding-left: 80px;  
+}
+
+header nav li{
+  float: left;
+  max-width: 100%;
+  list-style: none;
+  margin: 0 auto;
+  text-align: center;
+  padding-left: 20px;
+}
+
+header img{
+  width: 30px;
+    height: 30px;
+  float: left;
+  text-align: center;
+  padding-left: 350px; 
+}
+
+header button{
+color:rgb(118, 142, 167);
+background: white;
+font-family:  'Libre Franklin', sans-serif;
+float: right;
+border: white 2px solid;
+}
+
+main + section{
+  background: white;
+  color: black;
+  font-family:  'Oswald', sans-serif;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 100px;
+  padding-right: 80px;
+  padding-left: 80px;
+}
+
+body main span{
+  display: block;
+  color: black;
+}
+
+section + section{
+  background: rgba(150, 158, 165, 0.5);
+  color: black;
+    font-family: 'Oswald', sans-serif;
+  padding-top: 5%;
+  padding-right: 5%;
+}
+
+section + section button{
+  background: rgba(150, 158, 165, 0.5);
+    color: black; 
+  font-family: 'Oswald', sans-serif;
+  border: 1px solid black;
+}
+
+section img{
+  width: 25%;
+  float: left;
+  height: 150px;
+  padding-top: 50px;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+body main section + section .boxes{
+  background: white;
+  text-align: center;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  text-align: center;
+}
+
+
+
+footer{
+  background: rgba(8, 49, 68, 0.95);
+  color: white;
+  height: 200px;
+  
+  
+}
+
+footer h4{
+  color: rgb(118, 142, 167);
+    font-family: 'Oswald', sans-serif;
+  float: left;
+  display: block;
+}
+
+footer li{
+  font-family: 'Oswald', sans-serif;
+  float: left;
+  padding-top: 50px;
+  width: 70px;
+  list-style: none;
+  padding-right: 80px;
+  display: inline-block;
+  border-bottom: 1px solid white;  
+}
+
+footer p{
+  font-family: 'Oswald', sans-serif;
+  float: right;
+  height: 80px;
+  display: inline-block;
+}
+
+footer img{
+  width: 30px;
+    height: 30px;
+  float: right;
+  padding-left: 100px;
+}
