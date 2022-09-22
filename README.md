@@ -1,4 +1,4 @@
-# Level-Ground-MMA
+# Level Ground MMA
 
 ## About:
 
