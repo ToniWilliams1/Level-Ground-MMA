@@ -1,7 +1,7 @@
-# Levelground MMA
+# Level Ground MMA
 
 
-Levelground MMA is modern, fully responsive, and semantically structured web application for Levelground MMA. In this app, users are able to understand the company's mission and purpose, receive information abot volunteering, afterschool and group programs.
+Level Ground MMA is modern, fully responsive, and semantically structured web application for Levelground MMA. In this app, users are able to understand the company's mission and purpose, receive information abot volunteering, afterschool and group programs.
 
 ## Preview
 
