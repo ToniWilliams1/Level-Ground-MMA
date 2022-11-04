@@ -1,25 +1,17 @@
-# Level Ground MMA
+# Levelground MMA
 
-## About:
 
-Level Ground MMA is an landing page that was built for Level Ground MMA, a  mixed martial arts studio based in Boston, Maasachusetts. They were in need of a new landing page to showcase the studio and I was contacted to create a brand new website.
+Levelground MMA is modern, fully responsive, and semantically structured web application for Levelground MMA. In this app, users are able to understand the company's mission and purpose, receive information abot volunteering, afterschool and group programs.
 
-## View The Live Site Here:
+## Preview
 
-https://levelground-mmastudio.netlify.app
+## Live Site:
+[View Here](https://levelground-mmastudio.netlify.app/)
+ 
 
-## Tech Used:
-
-HTML/CSS, JavaScript
-
-## Authors:
-
-Toni Williams
-
-## Lessons Learned:
-
-There are many lessons I've learned during this process. I learned how to use CSS tools such as a color picker to select the perfect match, other style properties such as floats, specificity, and padding/margins.
+## Author:
+[Toni Williams](https://toniwilliams.netlify.app)
 
 ## Feedback:
 
-If you have any feedback, please reach out to us at toniwilliams@outlook.com
+If you have any feedback, please reach out to us at toniwilliams@outlook.com.
