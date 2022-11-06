@@ -2,10 +2,11 @@ header,
 main {
   background: rgb(118, 142, 167);
   color: white;
+  margin-top: 5%;
   max-width: 100%;
   margin: 0 auto;
   font-family: "Oswald", sans-serif;
-  height: 100px;
+  height: 80px;
   text-align: center;
   padding-bottom: 200px;
   height: 30px;
